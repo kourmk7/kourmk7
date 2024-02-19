@@ -1,4 +1,4 @@
-<h2>Hey, Hallo, नमस्ते 🙏🏻, I'm Manmeet Kaur! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<h2>Hey, Hallo, नमस्ते 🙏🏻, I'm Manmeet Kaur! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <br/>
 <a href="https://github.com/kourmk7">
   <img align="left" alt="kourmk's Portfolio" width="30px" src="https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png"/>
